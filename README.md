@@ -6,14 +6,25 @@
 
 <hr>
 
+This My Portofolio [Andhika Web](https://andhikaweb.github.io).
+
+![andhikapratamap's Stats](https://github-readme-stats.vercel.app/api?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+
+![andhikapratamap's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+
+
+
 # About Me
 >Andhika Pratama Putra remaja yang tertarik akan teknologi informasi dan sekarang masih bersekolah di SMPN 12 GRESIK dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML,CSS, Javascript dan PHP dan turut serta berkontribusi di proyek Wikipedia Indonesia terkait Teknologi Informasi dan menyukai Open Source.
 
 - 👀 I’m interested in WEB PROGRAMMING 
 - 🌱 I’m currently learning HTML,CSS, JAVASCRIPT and PYTHON
 
-This My Portofolio [Andhika Web](https://andhikaweb.github.io).
+# Social Media 📚
 
-![andhikapratamap's Stats](https://github-readme-stats.vercel.app/api?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
 
-![andhikapratamap's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+
+
+
+
