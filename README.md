@@ -20,6 +20,13 @@ This My Portofolio [Andhika Web](https://andhikaweb.github.io).
 - 👀 I’m interested in WEB PROGRAMMING 
 - 🌱 I’m currently learning HTML,CSS, JAVASCRIPT and PYTHON
 
+# Frameworks 🗒️
+
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+
+
 # Social Media 📚
 
 <img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
