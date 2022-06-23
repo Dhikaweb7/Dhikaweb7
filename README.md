@@ -2,7 +2,6 @@
 
 <hr>
 
-![saya](https://user-images.githubusercontent.com/107765982/174724820-fed75739-7663-4a0c-875d-4bb9b8111f06.png)
 
 <hr>
 
