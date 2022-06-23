@@ -10,11 +10,8 @@ This My Portofolio [Andhika Web](https://andhikaweb.github.io).
 
 ![andhikapratamap's Stats](https://github-readme-stats.vercel.app/api?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
-![andhikapratamap's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&layout=compact)
-
-
 # About Me 😅
->Andhika Pratama Putra remaja yang tertarik akan teknologi informasi dan sekarang masih bersekolah di SMPN 12 GRESIK dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML,CSS, Javascript dan PHP dan turut serta berkontribusi di proyek Wikipedia Indonesia terkait Teknologi Informasi dan menyukai Open Source.
+>Andhika Pratama Putra remaja yang tertarik akan teknologi informasi dan sekarang masih bersekolah di SMPN 12 GRESIK dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML,CSS, Javascript dan PHP dan turut serta berkontribusi di proyek Wikipedia Indonesia dan ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) terkait Teknologi Informasi dan menyukai Open Source.
 
 - 👀 I’m interested in WEB PROGRAMMING 
 - 🌱 I’m currently learning 
@@ -31,7 +28,7 @@ This My Portofolio [Andhika Web](https://andhikaweb.github.io).
 
 > 
 
-# Tools 🖥️
+# Tools Programming 🖥️
 
 <hr>
 
@@ -59,8 +56,17 @@ My Devices
 
 ![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 ![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
+# WEB SERVER and Database 👨‍💻
+
+![sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
