@@ -58,8 +58,6 @@ This My Portofolio [Andhika Web](https://andhikaweb.github.io).
 
 # WEB SERVER and Database 👨‍💻
 
-![sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
