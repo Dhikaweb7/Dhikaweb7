@@ -10,7 +10,7 @@ This My Portofolio [Andhika Web](https://andhikaweb.github.io).
 ![andhikapratamap's Stats](https://github-readme-stats.vercel.app/api?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 # About Me 😅
->Andhika Pratama Putra remaja yang tertarik akan teknologi informasi dan sekarang masih bersekolah di SMPN 12 GRESIK dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML,CSS, Javascript dan PHP dan turut serta berkontribusi di proyek Wikipedia Indonesia dan ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) terkait Teknologi Informasi dan menyukai Open Source.
+>Andhika Pratama Putra remaja yang tertarik akan teknologi informasi dan sekarang masih bersekolah di SMK RADEN PAKU, Jurusan TEKNIK KOMPUTER JARINGAN dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML,CSS, Javascript dan PHP dan turut serta berkontribusi di proyek Wikipedia Indonesia dan blogging WordPress terkait Teknologi Informasi dan menyukai Open Source.
 
 - 👀 I’m interested in WEB PROGRAMMING 
 - 🌱 I’m currently learning 
@@ -24,6 +24,10 @@ This My Portofolio [Andhika Web](https://andhikaweb.github.io).
 > ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <hr>
+
+
+# My Partner
+<a href="https://github.com/dhikaweb7"><img src="https://img.shields.io/badge/Prazzdev-000?style=for-the-badge&logo=github&logoColor=fff" /></a>
 
 # My Devices
 
@@ -73,7 +77,7 @@ This My Portofolio [Andhika Web](https://andhikaweb.github.io).
 
 ![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/p/CgDnnqiJz22/?igshid=YmMyMTA2M2Y=](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
