@@ -7,16 +7,12 @@
 
 This My Portofolio [Andhika Web](https://andhikaweb.github.io).
 
-![andhikapratamap's Stats](https://github-readme-stats.vercel.app/api?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-
 # About Me 😅
 <a href="https://dhikaweb7.github.io">Andhika Pratama Putra</a> remaja yang tertarik akan teknologi informasi dan sekarang masih bersekolah di <a href="#">SMK RADEN PAKU</a>, Jurusan<br> ``TEKNIK KOMPUTER JARINGAN`` dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML, CSS, Javascript, PHP, Python dan turut serta berkontribusi di proyek Wikipedia Indonesia dan blogging WordPress terkait Teknologi Informasi dan menyukai Open Source serta Cyber security 
 
 ![dhikaweb7's stats](https://github-readme-stats.vercel.app/api?username=dhikaweb7&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
-
-- 👀 I’m interested in WEB PROGRAMMING 
-- 🌱 I’m currently learning 
+Im learn 
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)     
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -66,7 +62,9 @@ This My Portofolio [Andhika Web](https://andhikaweb.github.io).
 ![https://www.instagram.com/p/CgDnnqiJz22/?igshid=YmMyMTA2M2Y=](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
+# Old Account
 
+![andhikapratamap's Stats](https://github-readme-stats.vercel.app/api?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 
 
