@@ -10,7 +10,10 @@ This My Portofolio [Andhika Web](https://andhikaweb.github.io).
 ![andhikapratamap's Stats](https://github-readme-stats.vercel.app/api?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 # About Me 😅
->Andhika Pratama Putra remaja yang tertarik akan teknologi informasi dan sekarang masih bersekolah di SMK RADEN PAKU, Jurusan TEKNIK KOMPUTER JARINGAN dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML,CSS, Javascript dan PHP dan turut serta berkontribusi di proyek Wikipedia Indonesia dan blogging WordPress terkait Teknologi Informasi dan menyukai Open Source.
+>Andhika Pratama Putra remaja yang tertarik akan teknologi informasi dan sekarang masih bersekolah di SMK RADEN PAKU, Jurusan TEKNIK KOMPUTER JARINGAN dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML,CSS, Javascript dan PHP dan turut serta berkontribusi di proyek Wikipedia Indonesia dan blogging WordPress terkait Teknologi Informasi dan menyukai Open Source
+
+![dhikaweb7's stats](https://github-readme-stats.vercel.app/api?username=dhikaweb7&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+
 
 - 👀 I’m interested in WEB PROGRAMMING 
 - 🌱 I’m currently learning 
