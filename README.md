@@ -3,7 +3,7 @@
 <hr>
 
 # About Me 😅
-<a href="https://dhikaweb7.github.io">Andhika Pratama Putra</a> remaja yang tertarik akan teknologi informasi <br> dan sekarang masih bersekolah di <a href="http://20576136.siap-sekolah.com/sekolah-profil/">SMK RADEN PAKU</a>, Jurusan<br> ``TEKNIK KOMPUTER JARINGAN`` dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML, CSS, Javascript, PHP, Python dan turut serta berkontribusi di proyek Wikipedia Indonesia dan blogging WordPress terkait Teknologi Informasi dan menyukai Open Source serta Cyber security 
+<a href="https://dhikaweb7.github.io">Andhika Pratama Putra</a> remaja yang tertarik akan teknologi informasi <br> dan sekarang masih bersekolah di <a href="http://20576136.siap-sekolah.com/sekolah-profil/">SMK RADEN PAKU</a> Jurusan <br> ``TEKNIK KOMPUTER JARINGAN`` dan masih mempelajari beberapa bahasa komputer terutama web seperti HTML, CSS, Javascript, PHP, Python dan turut serta berkontribusi di proyek Wikipedia Indonesia dan blogging WordPress terkait Teknologi Informasi dan menyukai Open Source serta Cyber security 
 
 ![dhikaweb7's stats](https://github-readme-stats.vercel.app/api?username=dhikaweb7&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
