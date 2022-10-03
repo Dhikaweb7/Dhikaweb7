@@ -8,7 +8,7 @@ remaja yang tertarik akan teknologi informasi <br>
 dan sekarang masih bersekolah di <a href="http://20576136.siap-sekolah.com/sekolah-profil/">SMK RADEN PAKU</a> <br>
 Jurusan [TEKNIK KOMPUTER JARINGAN](bg.md) dan masih mempelajari beberapa bahasa komputer terutama web seperti [HTML](p.md), [CSS](p.md) , [Javascript](p.md) , [PHP](p.md) , [Python](p.md) dan turut serta berkontribusi di proyek [Wikipedia Indonesia](p.md) terkait Teknologi Informasi dan menyukai [Open Source](p.md) serta [Cyber security](p.md)
 
-hikaweb7's stats](https://github-readme-stats.vercel.app/api?username=dhikaweb7&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![dhikaweb7's stats](https://github-readme-stats.vercel.app/api?username=dhikaweb7&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 Im learn 
 
