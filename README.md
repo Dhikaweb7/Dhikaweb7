@@ -57,10 +57,6 @@ Im learn
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
   ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
-# Old Account
-
-![andhikapratamap's Stats](https://github-readme-stats.vercel.app/api?username=andhikapratamap&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-
 
 
 
