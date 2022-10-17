@@ -10,6 +10,8 @@ Jurusan [TEKNIK KOMPUTER JARINGAN](bg.md) dan masih mempelajari beberapa bahasa 
 
 ![dhikaweb7's stats](https://github-readme-stats.vercel.app/api?username=dhikaweb7&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhikaweb7)](https://github.com/dhikaweb7/github-readme-stats)
+
 Im learn 
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)     
