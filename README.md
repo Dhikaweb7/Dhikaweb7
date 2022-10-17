@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Andhika Pratama Putra 
+### 👋 Hi, I’m Andhika Pratama Putra 
 
 <hr>
 
-# About Me 😅
+### About Me 😅
 <a href="https://dhikaweb7.github.io">Andhika Pratama Putra</a> 
-remaja yang tertarik akan teknologi informasi <br> 
+remaja yang tertarik akan teknologi informasi
 dan sekarang masih bersekolah di <a href="http://20576136.siap-sekolah.com/sekolah-profil/">SMK RADEN PAKU</a> <br>
 Jurusan [TEKNIK KOMPUTER JARINGAN](bg.md) dan masih mempelajari beberapa bahasa komputer terutama web seperti [HTML](p.md), [CSS](p.md) , [Javascript](p.md) , [Python](p.md) , [C](p.md) , [C++](c.md) dan turut serta berkontribusi di proyek [Wikipedia Indonesia](p.md) terkait Teknologi Informasi dan menyukai [Open Source](p.md) serta [Cyber security](p.md)
 
@@ -21,10 +21,10 @@ Im learn
 <hr>
 
 
-# My Partner
+### My Partner
 <a href="https://github.com/dhikaweb7"><img src="https://img.shields.io/badge/Prazzdev-000?style=for-the-badge&logo=github&logoColor=fff" /></a>
 
-# My Devices
+### My Devices
 
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -35,7 +35,7 @@ Im learn
 <hr>
 
 
-# Tools Programming 🖥️
+### Tools Programming 🖥️
 
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
@@ -46,16 +46,16 @@ Im learn
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
  ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-# WEB SERVER and Database 👨‍💻
+### WEB SERVER and Database 👨‍💻
 
 ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
-# Frameworks 🗒️
+### Frameworks 🗒️
 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 
-# Design Tools ✒️
+### Design Tools ✒️
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
   ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
