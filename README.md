@@ -9,6 +9,7 @@ dan sekarang masih bersekolah di <a href="http://20576136.siap-sekolah.com/sekol
 Jurusan [TEKNIK KOMPUTER JARINGAN](bg.md) dan masih mempelajari beberapa bahasa komputer terutama web seperti [HTML](p.md), [CSS](p.md) , [Javascript](p.md) , [Python](p.md) , [C](p.md) , [C++](c.md) dan turut serta berkontribusi di proyek [Wikipedia Indonesia](p.md) terkait Teknologi Informasi dan menyukai [Open Source](p.md) serta [Cyber security](p.md).
 
 - [Kumpulan Ebook IT](https://drive.google.com/drive/mobile/folders/1nbdQoa8sx8F8FJtGOud610Dl2D1FtIKG?utm_source=Perpustakaan+IT+Group+)
+- [Proyek Front-End Web](front-end.md)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhikaweb7)](https://github.com/Dhikaweb7/github-readme-stats)
 
