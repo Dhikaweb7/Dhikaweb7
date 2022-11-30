@@ -11,6 +11,8 @@ Jurusan [TEKNIK KOMPUTER JARINGAN](bg.md) dan masih mempelajari beberapa bahasa 
 - [Kumpulan Ebook IT](https://drive.google.com/drive/mobile/folders/1nbdQoa8sx8F8FJtGOud610Dl2D1FtIKG?utm_source=Perpustakaan+IT+Group+)
 - [Proyek Front-End Web](front-end.md)
 
+[xcyberone web](https://dhikaweb7.github.io/web-tkj/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhikaweb7)](https://github.com/Dhikaweb7/github-readme-stats)
 
 #### Im learn 
