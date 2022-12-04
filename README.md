@@ -1,5 +1,3 @@
-### 👋 Hi, I’m Andhika Pratama Putra 
-
 <hr>
 
 ### About Me 😅
