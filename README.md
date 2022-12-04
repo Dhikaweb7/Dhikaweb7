@@ -3,10 +3,10 @@
 <hr>
 
 ### About Me 😅
-<a href="https://dhikaweb7.github.io">Andhika Pratama Putra</a> 
-remaja yang tertarik akan teknologi informasi
-dan sekarang masih bersekolah di <a href="http://20576136.siap-sekolah.com/sekolah-profil/">SMK RADEN PAKU</a> <br>
-Jurusan [TEKNIK KOMPUTER JARINGAN](bg.md) dan masih mempelajari beberapa bahasa komputer terutama web seperti [HTML](p.md), [CSS](p.md) , [Javascript](p.md) , [Python](p.md) , [C](p.md) , [C++](c.md) dan turut serta berkontribusi di proyek [Wikipedia Indonesia](p.md) terkait Teknologi Informasi dan menyukai [Open Source](p.md) serta [Cyber security](p.md).
+
+---
+
+remaja yang tertarik akan teknologi informasi <br dan masih mempelajari beberapa bahasa komputer terutama web seperti [HTML](p.md), [CSS](p.md) , [Javascript](p.md) , [Python](p.md) , [C](p.md) , [C++](c.md) dan turut serta berkontribusi di proyek [Wikipedia Indonesia](p.md) terkait Teknologi Informasi dan menyukai [Open Source](p.md) serta [Cyber security](p.md).
 
 - [Kumpulan Ebook IT](https://drive.google.com/drive/mobile/folders/1nbdQoa8sx8F8FJtGOud610Dl2D1FtIKG?utm_source=Perpustakaan+IT+Group+)
 - [Proyek Front-End Web](front-end.md)
